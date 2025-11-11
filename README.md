@@ -1,2 +1,2 @@
-# SAP_Build_Process_Automation
+# SAP Build Process Automation
 Workflows built using SAP Build Process Automation
